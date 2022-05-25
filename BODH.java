@@ -25,7 +25,7 @@ class App extends JFrame implements ActionListener, MouseListener, KeyListener{
     JComboBox box1, box2;
 
     App(){
-        this.setTitle("BODH -C (Beta A016)");
+        this.setTitle("BODH -C (Beta A002)");
         this.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLayout(null);
